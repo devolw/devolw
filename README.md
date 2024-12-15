@@ -41,13 +41,6 @@
   <img src="https://github.com/devolw/devolw/assets/104515806/1d65f096-bff6-4c61-8d59-f235f9c2a7f1" width="260" height="25" alt="CodeWars">
 </div>
 
-
-
-<h3 align="center">WakaTime:</h3>
-<div align="center">
-  <a href="https://wakatime.com/@2f00e689-0019-415c-8d12-025109315817"><img src="https://wakatime.com/badge/user/2f00e689-0019-415c-8d12-025109315817.svg" width="2000" height="30" alt="Total time coded since Jun 1 2023" /></a>
-</div>
-
 <hr>
 
 <h3 align="center">Most Used Languages Stats:</h3>
