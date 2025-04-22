@@ -36,12 +36,15 @@
 
 <hr>
 
+<!-- 
 <h3 align="center">CodeWars:</h3>
 <div align="center">
   <img src="https://github.com/devolw/devolw/assets/104515806/1d65f096-bff6-4c61-8d59-f235f9c2a7f1" width="260" height="25" alt="CodeWars">
 </div>
+-->
 
+<!-- 
 <hr>
-
 <h3 align="center">Most Used Languages Stats:</h3>
 <div><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devolw&show_icons=true&locale=en&layout=compact" alt="devolw" /></p></div>
+-->
