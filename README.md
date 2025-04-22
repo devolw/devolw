@@ -1,9 +1,9 @@
 ### Hello, my name is Daniil 👋
 
-- 👨🏻‍🎓 I'm currently a student at Omsk Technical University, specializing in Software Engineering.
+<!-- - 👨🏻‍🎓 I'm currently a student at Omsk Technical University, specializing in Software Engineering.
 - 👨🏻‍💻 Currently, I'm diving deep into various technologies including Java, SQL, and the Spring Framework (Core, MVC, Validator, Security, Boot, REST), as well as PostgreSQL, JDBC, Hibernate, and Spring Data JPA.
 - 🕸️ My aspiration is to pursue a career as a Back-end Developer, leveraging my skills and passion for creating robust software solutions.
-- ✍🏻 You can reach out to me on Telegram: @devolw. Feel free to connect and discuss anything related to software development or beyond!
+- ✍🏻 You can reach out to me on Telegram: @devolw. Feel free to connect and discuss anything related to software development or beyond! -->
 
 <hr>
 
