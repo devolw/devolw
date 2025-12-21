@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <h3>ℌ𝔢𝔩𝔩𝔬, 𝔪𝔶 𝔫𝔞𝔪𝔢 𝔦𝔰 𝔇𝔞𝔫𝔦𝔦𝔩 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="Waving hand"/></h3>
 </div>
 <br>
@@ -11,7 +11,7 @@
 	</a><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f393.svg" width="20">ㅤSoftware Engineer at <a href="https://omgtu.ru/general_information">OmGTU
 	<br>
 	</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">ㅤBackend Developer at <a href="https://krds.ru/about">KRDS</a>ㅤ
-</em></p>
+</em></p> -->
 
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 </div>
 
-<br>
+<!-- <br> -->
 
 <hr>
 
