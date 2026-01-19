@@ -13,6 +13,7 @@
 	</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">ㅤBackend Developer at <a href="https://krds.ru/about">KRDS</a>ㅤ
 </em></p> -->
 
+<!---------------------------------------------------------------------------------------------------->
 
 <div align="center">
 
@@ -55,6 +56,34 @@
 	<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="40" height="40" alt="Linux" title="Linux"/></a>
 	<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS" title="MacOS"/></a>
 </p>
+
+<!---------------------------------------------------------------------------------------------------->
+
+<!--
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/nERMP8fuaZqvM6i94v/giphy.gif?cid=ecf05e47czxtgttch1ucv7b8lnacof41yvljme8u38v4uwm7&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
+</div>
+
+### 🛠️ My Technology Stack:
+
+- Backend: 
+
+- Frontend: 
+
+- Tools & DevOps: Git | Docker | Linux | CI/CD | Virtualenv / Poetry
+
+- Extras: Celery | Redis | Nginx / Gunicorn / Uvicorn
+---
+### 📫 Contact me:
+
+  <a href="https://t.me/Citrus_sd">
+    <img src="https://img.shields.io/badge/Telegram%20-%20blue?logo=Telegram&logoColor=white&color=blue" alt="LinkedIn Badge"/>
+  </a>
+
+---
+
+* ❤️ GitHub
+-->
 
 <!--<hr> 
 
