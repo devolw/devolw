@@ -1,3 +1,4 @@
+ㅤ
 <!-- <div align="center">
 <h3>ℌ𝔢𝔩𝔩𝔬, 𝔪𝔶 𝔫𝔞𝔪𝔢 𝔦𝔰 𝔇𝔞𝔫𝔦𝔦𝔩 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" alt="Waving hand"/></h3>
 </div>
@@ -15,15 +16,15 @@
 
 <!---------------------------------------------------------------------------------------------------->
 
-<div align="center">
+<!-- <div align="center">
 
 [![Telegram: devolw](https://img.shields.io/badge/-devolw-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/devolw) [![GitHub Devolw](https://img.shields.io/github/followers/devolw?label=follow&style=social)](https://github.com/devolw)
 
-</div>
+</div> -->
 
 <!-- <br> -->
 
-<hr>
+<!-- <hr>
 
 <h4 align="left">ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇꜱ</h4>
 <p align="left">
@@ -55,7 +56,7 @@
 <p align="left">
 	<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux.svg" width="40" height="40" alt="Linux" title="Linux"/></a>
 	<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS" title="MacOS"/></a>
-</p>
+</p> -->
 
 <!---------------------------------------------------------------------------------------------------->
 
